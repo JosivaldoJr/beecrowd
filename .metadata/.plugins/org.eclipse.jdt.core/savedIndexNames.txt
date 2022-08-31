@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\Users\Júnior\Documents\Junior\Backup 2\Beecrowd\.metadata\.plugins\org.eclipse.jdt.core
+3323765870.index
+4008590608.index
